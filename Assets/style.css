@@ -1,0 +1,27 @@
+
+        button,
+        div,
+        form,
+        input {
+            margin: 10px;
+        }
+
+body{
+    font: 10px, arial;
+    background: rgb(69, 164, 196);
+}
+#movie-form{
+    float: left;
+    background: white;
+    margin-right:20px;
+}
+
+form{
+    float:right;
+    width: 30%;
+    padding: 20px;
+}
+
+button.action{
+    background: blueviolet;
+} 
